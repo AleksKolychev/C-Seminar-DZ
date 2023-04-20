@@ -1,0 +1,15 @@
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\bin\Debug\net7.0\Goldbach.exe
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\bin\Debug\net7.0\Goldbach.deps.json
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\bin\Debug\net7.0\Goldbach.runtimeconfig.json
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\bin\Debug\net7.0\Goldbach.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\bin\Debug\net7.0\Goldbach.pdb
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\obj\Debug\net7.0\Goldbach.csproj.AssemblyReference.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\obj\Debug\net7.0\Goldbach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\obj\Debug\net7.0\Goldbach.AssemblyInfoInputs.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\obj\Debug\net7.0\Goldbach.AssemblyInfo.cs
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\obj\Debug\net7.0\Goldbach.csproj.CoreCompileInputs.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\obj\Debug\net7.0\Goldbach.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\obj\Debug\net7.0\refint\Goldbach.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\obj\Debug\net7.0\Goldbach.pdb
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\obj\Debug\net7.0\Goldbach.genruntimeconfig.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Goldbach\obj\Debug\net7.0\ref\Goldbach.dll
